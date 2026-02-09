@@ -180,7 +180,6 @@ def update_stok(stok_dict):
         print("Pilihan tidak valid.")
 
 
-
 # -------------------------------
 # Program Utama
 # -------------------------------
